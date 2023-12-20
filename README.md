@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**azyildizeli/azyildizeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi there! I'm Zeynep 👩🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I work as a Frontend Developer.
+
+💻 Technologies and Skills:
+- HTML5, CSS3, JavaScript
+- Modern JavaScript libraries/frameworks like React.js
+- Responsive Web Design and UI/UX Principles
+- Version Control (Git) and GitHub
+
+🌟 Areas of Interest:
+- Improving web performance and optimization
+- Enhancing user experience
+- Keeping up with innovative frontend technologies and trends
+
+🔭 What I'm Currently Working On:
+- React Native
+
+🌐 Find More About Me:
+- linkedin.com/in/azyildizeli/
+
+📫 Feel Free to Get in Touch:
+- azyildizeli@gmail.com
+
+
+
